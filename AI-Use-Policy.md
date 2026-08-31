@@ -6,8 +6,8 @@ AI tools, including GitHub Copilot and ChatGPT, may be used as learning assistan
 
 You may use an AI tool to:
 
-- Explain a Python concept in simpler language.
-- Explain interpreter errors and error messages.
+- Explain a Java concept in simpler language.
+- Explain compiler errors and error messages.
 - Provide a small hint or guiding question.
 - Help identify a problem in code you have already written.
 - Suggest test cases.
@@ -20,7 +20,7 @@ You may use an AI tool to:
 You may not use an AI tool to:
 
 - Generate a complete solution to a lab or assignment.
-- Write or replace an entire program or function.
+- Write or replace an entire class or method.
 - Submit AI-generated code that you cannot explain.
 - Copy code from an AI tool without reviewing, testing, and understanding it.
 - Use AI during a quiz or examination unless the instructor explicitly permits it.
@@ -32,7 +32,7 @@ You are responsible for every line of code you submit. You must be able to expla
 
 - What the program does.
 - How its main sections work.
-- Why you selected particular variables, functions, loops, or conditions.
+- Why you selected particular variables, methods, loops, or conditions.
 - How you tested and corrected the program.
 
 The instructor may ask you to explain or modify your code. If you cannot explain submitted code, the work may not receive credit.
